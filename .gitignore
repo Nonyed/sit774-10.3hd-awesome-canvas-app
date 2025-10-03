@@ -7,3 +7,5 @@ npm-debug.log*
 db/*.db-shm
 db/*.db-wal
 Submission.pdf
+db/*.db-shm
+db/*.db-wal
