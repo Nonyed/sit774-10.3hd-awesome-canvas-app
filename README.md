@@ -85,3 +85,9 @@ Payload example (text-only JSON model):
 ## License
 
 MIT
+git add README.md
+git commit -m "docs: clean up README"
+git push
+
+cd ~/Desktop/public_html/task10_3
+
