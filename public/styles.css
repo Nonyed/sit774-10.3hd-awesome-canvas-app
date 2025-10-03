@@ -1,0 +1,19 @@
+/* Parallax hero */
+.hero {
+  background-image: url('https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1600&auto=format&fit=crop');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 50vh;
+}
+#board {
+  background: #fff;
+  cursor: crosshair;
+}
+pre#modelPreview {
+  max-height: 240px;
+  overflow: auto;
+}
+.card, .navbar, .btn, .form-control, .form-select {
+  border-radius: 1rem;
+}
