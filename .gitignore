@@ -4,3 +4,5 @@ db/*.db
 db/*.db-journal
 npm-debug.log*
 .DS_Store
+db/*.db-shm
+db/*.db-wal
