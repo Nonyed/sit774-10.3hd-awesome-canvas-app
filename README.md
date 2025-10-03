@@ -5,8 +5,7 @@ This repo contains a **Canvas drawing web app** that demonstrates:
 - Advanced UI element: HTML5 `<canvas>` (plus pointer interactions, undo/redo, PNG export)
 - Extended UI styling & interactions: Bootstrap 5, parallax hero, responsive cards
 - **More complex Express routing** (14+ routes) and **enhanced error handling**
-- **Dynamic JSON content**: drawing serialized to pure text (JSON) and sent to server
-- **Permanent storage** using SQLite (`better-sqlite3`)
+- **Dynamic JSON content**: drawing serialized to pure text (JSON) and sent to server- **Permanent storage** using SQLite (`better-sqlite3`)
 - **Optional secure auth**: bcrypt password hashing + server sessions (no plain-text)
 
 > Built to satisfy SIT774 Task 10.3HD requirements. See the `Submission.pdf` for an overview.
@@ -22,7 +21,7 @@ This repo contains a **Canvas drawing web app** that demonstrates:
    npm install
    npm run start
    ```
-4. Visit <http://localhost:3000> in your browser.
+4. Visit <http://localhost:40103> in your browser.
 
 To auto-restart on save:
 
